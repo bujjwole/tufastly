@@ -11,8 +11,8 @@ import java.util.List;
 @Component
 public class PaypalClient {
 
-    public static final String clientID = "ASBYJq6x-VUlwF2iPrTBuXu2zykyxvfHx1dpzJvaHnOskbQES0HKN3TD1SpQs1gK-Lka_j--k5cr3hav";
-    public static final String clientSecret = "EPuxL8pJW-wn_qhIc0Ov0JPVTEuSPFsuZI83mrOI8NfRl7O6nDBEhP0Qu0yFuDZKO-Lmn1CNQg3U2_VR";
+    public static final String clientID = "YOUR_PAYPAL_CLIENT_ID";
+    public static final String clientSecret = "YOUR_PAYPAL_CLIENT_SECRET";
     public static final String mode = "sandbox";
 
 

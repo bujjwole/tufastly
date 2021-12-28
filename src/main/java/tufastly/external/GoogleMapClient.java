@@ -24,7 +24,7 @@ import java.util.List;
 public class GoogleMapClient {
     private static final String DIRECTION_URL_TEMPLATE = "https://maps.googleapis.com/maps/api/directions/json?origin=%s&destination=%s&waypoints=%s&key=%s";
     private static final String GEOCODING_URL_TEMPLATE = "https://maps.googleapis.com/maps/api/geocode/json?address=%s&key=%s";
-    private static final String KEY = "AIzaSyCEkdlBcPTWhd9uyZsIx30VrnoHCWujrsc";
+    private static final String KEY = "YOUR_GOOGLE_MAP_KEY";
     private static final String DIRECTION_URL_TEMPLATE_noWaypoints = "https://maps.googleapis.com/maps/api/directions/json?origin=%s&destination=%s&key=%s";
     public DirectionResponseItem getRoute(String origin, String destination, List<String> waypoints) {
         String WAY_POINTS = "optimize:true";

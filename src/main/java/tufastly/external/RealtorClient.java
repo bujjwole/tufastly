@@ -39,7 +39,7 @@ public class RealtorClient {
 
         HttpGet request = new HttpGet(url);
         request.setHeader("x-rapidapi-host", "realtor.p.rapidapi.com");
-        request.setHeader("x-rapidapi-key", "d8af5b07f6msh3abcadb64f93a67p110ab8jsn1c88de1e09ee");
+        request.setHeader("x-rapidapi-key", "YOUR_REALTOR_CLIENT_KEY");
 
         // Create a custom response handler
         ResponseHandler<RealtorResponseItem> responseHandler = response -> {
