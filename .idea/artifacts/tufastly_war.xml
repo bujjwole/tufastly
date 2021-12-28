@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tufastly:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>tufastly</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="tufastly-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="tufastly:war exploded" />
+    </root>
+  </artifact>
+</component>

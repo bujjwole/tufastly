@@ -1,0 +1,12 @@
+.payment-info-container {
+    margin: 0px 0px 0px 100px;
+    border: 1px #ccc;
+  }
+  .payment-icons {
+    height: 150px;
+    width: 200px;
+  }
+  .paymethod{
+    margin: 5px;
+  }
+ 

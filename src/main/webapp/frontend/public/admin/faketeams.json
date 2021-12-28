@@ -1,0 +1,96 @@
+{
+    "robots": {
+        "away": 10,
+        "charging": 20
+    },
+    "drones": {
+        "away": 30,
+        "charging": 40
+    },
+    "details": [
+        {
+            "id": 1001,
+            "center": ["A"],
+            "type": ["robot"],
+            "status": ["charging"]
+        },
+        {
+            "id": 1002,
+            "center": ["A"],
+            "type": ["robot"],
+            "status": ["away"],
+            "ordernumber": 1101
+        },
+        {
+            "id": 1101,
+            "center": ["A"],
+            "type": ["drone"],
+            "status": ["away"],
+            "ordernumber": 1102
+        },
+        {
+            "id": 1102,
+            "center": ["A"],
+            "type": ["drone"],
+            "status": ["away"],
+            "ordernumber": 1103
+        },
+        {
+            "id": 1103,
+            "center": ["A"],
+            "type": ["drone"],
+            "status": ["charging"]
+        },
+        {
+            "id": 2001,
+            "center": ["B"],
+            "type": ["robot"],
+            "status": ["away"],
+            "ordernumber": 1024
+        },
+        {
+            "id": 2002,
+            "center": ["B"],
+            "type": ["robot"],
+            "status": ["charging"]
+        },
+        {
+            "id": 2101,
+            "center": ["B"],
+            "type": ["drone"],
+            "status": ["away"],
+            "ordernumber": 1026
+        },
+        {
+            "id": 2102,
+            "center": ["B"],
+            "type": ["drone"],
+            "status": ["charging"]
+        },
+        {
+            "id": 3001,
+            "center": ["C"],
+            "type": ["robot"],
+            "status": ["away"],
+            "ordernumber": 1029
+        },
+        {
+            "id": 3002,
+            "center": ["C"],
+            "type": ["robot"],
+            "status": ["charging"]
+        },
+        {
+            "id": 3101,
+            "center": ["C"],
+            "type": ["drone"],
+            "status": ["charging"]
+        },
+        {
+            "id": 3102,
+            "center": ["C"],
+            "type": ["drone"],
+            "status": ["charging"]
+        }
+    ]
+}

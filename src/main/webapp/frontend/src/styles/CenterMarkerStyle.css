@@ -1,0 +1,9 @@
+.circle {
+  border: '5px solid #f44336';
+  background: 'white';
+}
+
+.circleText {
+  position: 'absolute';
+  color: 'red';
+};

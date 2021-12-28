@@ -1,0 +1,140 @@
+{
+    "totals": {
+        "totalorders": 100,
+        "totalrevenues": 10000
+    },
+    "details": [
+        {
+            "orderNumber": 1022,
+            "date": "10-22-2020",
+            "name": "John Brown",
+            "pickupaddress": "New York, No. 1",
+            "deliveryaddress": "New York, No. 2",
+            "type": [
+                "robot"
+            ],
+            "revenue": 12.34
+        },
+        {
+            "orderNumber": 1023,
+            "date": "10-23-2020",
+            "name": "Jaylen Lee",
+            "pickupaddress": "London, No. 1",
+            "deliveryaddress": "London, No. 2",
+            "type": [
+                "drone"
+            ],
+            "revenue": 45.67
+        },
+        {
+            "orderNumber": 1024,
+            "date": "10-24-2020",
+            "name": "Jack Lee",
+            "pickupaddress": "London, No. 1",
+            "deliveryaddress": "London, No. 2",
+            "type": [
+                "drone"
+            ],
+            "revenue": 45.12
+        },
+        {
+            "orderNumber": 1025,
+            "date": "10-25-2020",
+            "name": "Peter Lee",
+            "pickupaddress": "London, No. 1",
+            "deliveryaddress": "London, No. 2",
+            "type": [
+                "robot"
+            ],
+            "revenue": 10.24
+        },
+        {
+            "orderNumber": 1026,
+            "date": "10-26-2020",
+            "name": "Alan Lee",
+            "pickupaddress": "London, No. 1",
+            "deliveryaddress": "London, No. 2",
+            "type": [
+                "drone"
+            ],
+            "revenue": 35.67
+        },
+        {
+            "orderNumber": 1027,
+            "date": "10-27-2020",
+            "name": "Ivan Lee",
+            "pickupaddress": "London, No. 1",
+            "deliveryaddress": "London, No. 2",
+            "type": [
+                "drone"
+            ],
+            "revenue": 5.67
+        },
+        {
+            "orderNumber": 1028,
+            "date": "10-28-2020",
+            "name": "Jaylen Lee",
+            "pickupaddress": "London, No. 1",
+            "deliveryaddress": "London, No. 2",
+            "type": [
+                "drone"
+            ],
+            "revenue": 45.20
+        },
+        {
+            "orderNumber": 1029,
+            "date": "10-29-2020",
+            "name": "Tony Lee",
+            "pickupaddress": "London, No. 1",
+            "deliveryaddress": "London, No. 2",
+            "type": [
+                "robot"
+            ],
+            "revenue": 4.67
+        },
+        {
+            "orderNumber": 1030,
+            "date": "10-30-2020",
+            "name": "Jaylen Lee",
+            "pickupaddress": "London, No. 1",
+            "deliveryaddress": "London, No. 2",
+            "type": [
+                "drone"
+            ],
+            "revenue": 65.67
+        },
+        {
+            "orderNumber": 1101,
+            "date": "11-01-2020",
+            "name": "Kris Lee",
+            "pickupaddress": "London, No. 1",
+            "deliveryaddress": "London, No. 2",
+            "type": [
+                "robot"
+            ],
+            "revenue": 48.67
+        },
+        {
+            "orderNumber": 1102,
+            "date": "11-02-2020",
+            "name": "Quin Lee",
+            "pickupaddress": "London, No. 1",
+            "deliveryaddress": "London, No. 2",
+            "type": [
+                "robot"
+            ],
+            "revenue": 41.67
+        },
+        {
+            "orderNumber": 1103,
+            "date": "11-03-2020",
+            "name": "Eric Lee",
+            "pickupaddress": "London, No. 1",
+            "deliveryaddress": "London, No. 2",
+            "type": [
+                "drone"
+            ],
+            "revenue": 45.67
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+.adminmenu .menu {
+    margin-left: 20px;
+}
+
+.adminmenu [data-theme="dark"] .site-layout-content {
+    background: #000000;
+}
